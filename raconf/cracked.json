@@ -1,0 +1,10 @@
+[
+  {
+    "type": "WPA",
+    "date": 1745533289,
+    "essid": "AreIf",
+    "bssid": "16:E7:3E:46:F4:3B",
+    "key": "1234567890",
+    "handshake_file": "hs/handshake_AreIf_16-E7-3E-46-F4-3B_2025-04-25T01-21-29.cap"
+  }
+]
