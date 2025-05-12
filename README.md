@@ -13,4 +13,3 @@
    - JSON web tokens (JWT) (8 Labs)
 - Ctf-1
 - Ctf-2
-- Raconf25
