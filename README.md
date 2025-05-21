@@ -11,5 +11,7 @@
    - Server-Side Request Forgery (7 labs)
    - Server-side template injection (7 labs)
    - JSON web tokens (JWT) (8 Labs)
-- Ctf-1
-- Ctf-2
+   - Cross-site scripting (XSS) (22 Labs)
+- CTF-1
+- CTF-2
+- Demiroz Bank Web CTF
