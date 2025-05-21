@@ -10,7 +10,8 @@
    - Access control vulnerabilities (13 labs)
    - Server-Side Request Forgery (7 labs)
    - Server-side template injection (7 labs)
-   - JSON web tokens (JWT) (8 Labs)
+   - JSON web tokens (JWT) 
+      - Portswigger Labları Cözümleri (8 Labs)
    - Cross-site scripting (XSS) (22 Labs)
 - CTF-1
 - CTF-2
